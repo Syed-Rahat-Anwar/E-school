@@ -1,7 +1,5 @@
 
    
-    
-
 body{
 
     font-family: 'Poppins', sans-serif;
@@ -26,7 +24,7 @@ body{
 }
 
 
-/*nav area*/
+ /* nav area*/
 .nav-item{
 
      
@@ -52,7 +50,7 @@ font-weight: bold;
 
 }
 
-/*--------------------------banner area--------------------------------- */
+ 
 h1{
     font-size:50px ;
 }
@@ -73,7 +71,7 @@ color:red;
 
 
 
-/*icon section */
+/*-------------------------icon section------------------------- */
  .small-icon{
      width: 70px;
  }
@@ -96,7 +94,7 @@ margin-left: 40px;
 
  
 
- /*online courses*/
+ /*----------------------online courses area---------------------------*/
  h2{
 
     text-align: center;
@@ -109,9 +107,12 @@ margin-left: 40px;
  .calender-icon, .people-icon{
      width: 20px;
  }
+.block{
+    display: inline-block;
+   margin-right: 40px;
+}
 
-
- /*----------------------------footer----------------------------*/
+ /*----------------------------footer area----------------------------*/
   
 
  .semi-footer{
