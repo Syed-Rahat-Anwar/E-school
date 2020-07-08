@@ -1,0 +1,107 @@
+.body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;;
+    
+    
+}
+.container{
+    margin-bottom: 50px;
+    padding: 50px;
+}
+.bg-color{
+    background: #f0fff0;
+
+}
+
+
+/*nav area*/
+.nav-item{
+
+     
+    margin-right: 20px;
+}
+ .nav-link{
+
+    font-size: 18px;
+    font-weight: 400px;
+    color: #000;
+ }
+ .logo{
+
+    width: 150px;
+ }
+/*header -area */
+
+.btn{
+background-color: #21b573;
+padding: 8px 30px;
+cursor: pointer;
+font-weight: bold;
+
+}
+
+/*banner area */
+h1{
+    font-size:50px ;
+}
+.red-highlight{
+
+color:red;
+
+}
+ 
+.green-highlight{
+
+    color:  #21b573;;
+}
+
+
+
+/*icon section */
+ .small-icon{
+     width: 70px;
+ }
+
+ .icon-area{
+width: 220px;
+padding: 30px 40px;
+
+margin-left: 40px;
+
+ }
+ .icon-area h4{
+     margin-top: 10px;
+ }
+ .icon-area:hover{
+    box-shadow: 10px 10px 20px gray;
+    background-color: white;
+    transition: 0.5s;
+ }
+
+ 
+
+ /*online courses*/
+ h2{
+
+    text-align: center;
+ }
+
+
+ /*----------------------------footer----------------------------*/
+  
+
+ .semi-footer{
+    background-color:  #272530;
+     color: white;
+ }  
+
+ .semi-footer ul li{
+
+    list-style-type: none;
+    color: white;
+ }
+  small{
+      text-align: center;
+  } 
