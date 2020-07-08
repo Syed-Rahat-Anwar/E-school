@@ -115,19 +115,23 @@ margin-left: 40px;
  /*----------------------------footer area----------------------------*/
   
 
- .semi-footer{
+ .full-footer{
+     
     background-color:  #272530;
      color: white;
-     padding: 30px;
+     padding: 50px 50px;
+     
+      
+    
       
      
- }  
-
- .semi-footer ul li{
+ } 
+  
+ .full-footer ul li{
 
     list-style-type: none;
-    color: white;
- }
-   small{
-      text-align: center;
+}
+ .footer-area{
+     text-align: center;
+
   }
